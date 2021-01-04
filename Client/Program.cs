@@ -1,4 +1,5 @@
 ﻿using System;
+using Domain;
 
 namespace Client
 {
@@ -6,7 +7,10 @@ namespace Client
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BossClass.PalindromeChecker();
+            Console.WriteLine("Enter '1' to keep using the Palindrome Checker");
+            Console.WriteLine("Enter '0' to exit the Palindrome Checker");
+
         }
     }
 }

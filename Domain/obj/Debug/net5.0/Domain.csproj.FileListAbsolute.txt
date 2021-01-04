@@ -1,0 +1,12 @@
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/bin/Debug/net5.0/Domain.deps.json
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/bin/Debug/net5.0/Domain.dll
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/bin/Debug/net5.0/ref/Domain.dll
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/bin/Debug/net5.0/Domain.pdb
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.csprojAssemblyReference.cache
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.AssemblyInfoInputs.cache
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.AssemblyInfo.cs
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.csproj.CoreCompileInputs.cache
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.dll
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/ref/Domain.dll
+/home/eli/revature/challenge-palindrome-EliMathews/Domain/obj/Debug/net5.0/Domain.pdb
